@@ -1,3 +1,9 @@
+---
+name: diagram-types
+description: >
+  Pick the type from the user's underlying question, not their vocabulary. "Architecture diagram" can mean six different things. | User is really asking | Diagram type | SVG layout pattern | Mermaid equivalent | Use this skill when working with diagram types tasks or workflows.
+---
+
 # Diagram Type Selection
 
 Pick the type from the user's underlying question, not their vocabulary. "Architecture diagram" can mean six different things.
